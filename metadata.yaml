@@ -1,0 +1,27 @@
+_repo: A-History-of-Inland-Transport-and-Communication-in-England_52087
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pratt, Edwin A.
+    alias: Pratt, E. A. (Edwin A.)
+    birthdate: 1854
+    deathdate: 1922
+    gutenberg_agent_id: '41689'
+    url: http://www.gutenberg.org/2009/agents/41689
+description: ''
+gutenberg_issued: '2016-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52087'
+  lccn: '12005182'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Transportation -- Great Britain -- History'
+- !lcc 'HE'
+- !lcsh 'Communication and traffic -- Great Britain'
+- GITenberg
+title: A History of Inland Transport and Communication in England
+url: http://www.gutenberg.org/ebooks/52087
