@@ -1,5 +1,8 @@
 _repo: A-History-of-Inland-Transport-and-Communication-in-England_52087
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 52087-h/images/cover.jpg
 creator:
   author:
     agent_name: Pratt, Edwin A.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '41689'
     url: http://www.gutenberg.org/2009/agents/41689
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52087#A-History-of-Inland-Transport-and-Communication-in-England
 gutenberg_issued: '2016-05-16'
 gutenberg_type: Text
 identifiers:
